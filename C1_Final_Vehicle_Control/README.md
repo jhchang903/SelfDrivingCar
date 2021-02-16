@@ -17,14 +17,14 @@ The steering angle is within the range from -1.22 to 1.22 (rad)
 ### Trajectory
 The figure show below is the simulation result.\
 The orange curve is desired trajectory, and the blue curve is the control result (actual trajectory).\
-<img src="https://github.com/jhchang903/SelfDrivingCar/blob/master/Course1FinalProject/controller_output/trajectory.png" width="700" >
+<img src="https://github.com/jhchang903/SelfDrivingCar/blob/master/C1_Final_Vehicle_Control/controller_output/trajectory.png" width="700" >
 
 ### Steering angle
-<img src="https://github.com/jhchang903/SelfDrivingCar/blob/master/Course1FinalProject/controller_output/steer_output2.png" width="400">
+<img src="https://github.com/jhchang903/SelfDrivingCar/blob/master/C1_Final_Vehicle_Control/controller_output/steer_output2.png" width="400">
 
 ### Throttle
-<img src="https://github.com/jhchang903/SelfDrivingCar/blob/master/Course1FinalProject/controller_output/throttle_output2.png" width="400">
+<img src="https://github.com/jhchang903/SelfDrivingCar/blob/master/C1_Final_Vehicle_Control/controller_output/throttle_output2.png" width="400">
 
 ### Speed Profile
 The speed enveloped within the green dash line is acceptable speed.\
-<img src="https://github.com/jhchang903/SelfDrivingCar/blob/master/Course1FinalProject/controller_output/Speed%20profile.png" width="400">
+<img src="https://github.com/jhchang903/SelfDrivingCar/blob/master/C1_Final_Vehicle_Control/controller_output/Speed%20profile.png" width="400">
