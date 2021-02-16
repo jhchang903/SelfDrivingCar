@@ -4,12 +4,12 @@ The goal is to control the vehicle to follow a race track by navigating through 
 The vehicle needs to reach these waypoints at certain desired speeds, so both longitudinal and lateral control will be required.
 
 ### Longitudinal Control
-This project use PID for longitudinal control.\ 
+This project uses PID for longitudinal control.\ 
 The value of throttle input is presented in percentage.\
 No brake control in this project.
 
 ### Lateral Control
-This project apply Pure Pursuit for lateral control.\
+This project applies Pure Pursuit for lateral control.\
 The steering angle is within the range from -1.22 to 1.22 (rad)
 
 ## Result
