@@ -10,4 +10,5 @@ When the state is Follow lane, the vehicle will check the desired waypoints and 
 After the desired waypoint for the next step is picked, Conformal lattice is applied to plan several trajectoies whose ends are close to that desired waypoint.\
 Finally we use an objective function to decide the best trajectory that helps the vehicle to avoid collision.
 
-The framework of this project is shown in the figure below.
+The framework of this project is shown in the figure below.\
+<img src="https://github.com/jhchang903/SelfDrivingCar/blob/master/C4_Motion_Planning/c4_struct.jpg" width="800">
