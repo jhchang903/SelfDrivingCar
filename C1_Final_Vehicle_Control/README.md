@@ -2,6 +2,7 @@
 This project implements a controller for the CARLA simulator.\
 The goal is to control the vehicle to follow a race track by navigating through preset waypoints.\
 The vehicle needs to reach these waypoints at certain desired speeds, so both longitudinal and lateral control will be required.
+<img src="https://github.com/jhchang903/SelfDrivingCar/blob/master/C1_Final_Vehicle_Control/controller_output/SimResultGIF.gif" width="400">
 
 ### Longitudinal Control
 This project uses PID for longitudinal control.\ 
