@@ -11,4 +11,4 @@ The section __PRACTICE__ shows the codes that implementing crucial theory for se
 
    <img src="https://github.com/jhchang903/SelfDrivingCar/blob/master/C1_Final_Vehicle_Control/SimResultGIF.gif" width="200">
    
-[C2_Error_State_Extended_Kalman_Filter](SelfDrivingCar/C2_Error_State_Extended_Kalman_Filter/)
+[C2_Error_State_Extended_Kalman_Filter](SelfDrivingCar/C2_Error_State_Extended_Kalman_Filter/Error-State_Extended_Kalman_Filter.ipynb)
