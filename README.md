@@ -1,4 +1,4 @@
-# SelfDrivingCar
+# Self-Driving Car
 This repository includes the projects of Self-Driving Cars Specialization from Couresera.\
 The section __PROJECTS__ shows the final project of each course.\
 The section __PRACTICE__ shows the codes that implementing crucial theory for self-driving car.
