@@ -30,5 +30,4 @@ The section __PRACTICE__ shows the codes that implementing crucial theory for se
 * [Least_Square](Least_Square/C2M1L2_LeastSquare-RecursiveEstimator.ipynb)
 * [Extended_Kalman_Filter](Extended_Kalman_Filter/C2M2L2_EKF_StateEstimation.ipynb)
 * [Mapping](Mapping/Mapping.ipynb)
-* [MissionPlanning](MissionPlanning/Mission_Planning.ipynb)
-   Using Dijkstra and A* to plan the path.
+* [MissionPlanning](MissionPlanning/Mission_Planning.ipynb): Using Dijkstra and A* to plan the path.
